@@ -68,7 +68,7 @@
     hr
     	center(rem(760px))
     	border 1px solid lightGray
-    	margin 100px auto
+    	margin 50px auto
 
 .share
     center(800px)
