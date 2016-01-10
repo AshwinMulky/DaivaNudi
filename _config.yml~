@@ -1,5 +1,5 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: Daiva Nudi :: Tulu Nadu
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://daivanudi.dharmasthana.in" # the base hostname & protocol for your site 
 
@@ -8,9 +8,9 @@ username: ದೈವ ನುಡಿ
 user_description: 
 user_title: Daiva Nudi
 email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+twitter_username: ashwin_mulky
+github_username:  AshwinMulky
+gplus_username:  
 disqus_username: AshwinMulky
 
 # Build settings
