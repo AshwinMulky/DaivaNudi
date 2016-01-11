@@ -2,14 +2,16 @@
 layout: nil
 ---
 
+
+
   [
     {% for post in site.posts %}
-        {
-          "title"    : "{{ post.title }}",
-          "url"     : "{{ post.url }}",
-          "date"     : "{{ post.date | date: "%B %d, %Y" }}",
-          "content"  : "{{ post.content | escape }}"
-        } {% if forloop.last %}{% else %},{% endif %}
-    {% endfor %}
+       {
+      "title": "{{ post.title | xml_escape }}",
+      "description": "{{ post.description | xml_escape }}",
+      "type": "{{ post.type | xml_escape }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
     ]
 
