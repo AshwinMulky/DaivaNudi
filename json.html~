@@ -9,7 +9,7 @@ layout: nil
        {
       "title": "{{ post.title | xml_escape }}",
       "description": "{{ post.description | xml_escape }}",
-      "type": "{{ post.type | xml_escape }}"
+      "author": "{{ post.author | xml_escape }}"
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}
