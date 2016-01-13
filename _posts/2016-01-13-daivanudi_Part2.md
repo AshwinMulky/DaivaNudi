@@ -7,6 +7,9 @@ description:
 tags:
 categories:
 twitter_text:
+author : Sandeep Poojary
+email: 
+facebook: https://www.facebook.com/sandeep.poojari.35
 ---
 
 >## ದೈವದ ನುಡಿ ಎಗ್ಗೆ ೨ 
