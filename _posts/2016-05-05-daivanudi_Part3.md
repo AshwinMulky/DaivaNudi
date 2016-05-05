@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ದೈವದ ನುಡಿ - ಎಗ್ಗೆ ೨"
-date: 2016-01-13 22:04:38
+title: "ದೈವದ ನುಡಿ - ಎಗ್ಗೆ ೩"
+date: 2016-05-05 22:04:38
 image: '/assets/img/'
 description:
 tags:
