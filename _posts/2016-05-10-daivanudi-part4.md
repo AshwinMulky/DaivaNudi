@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ದೈವದ ನುಡಿ ಎಗ್ಗೆ-4"  
+title: "ದೈವದ ನುಡಿ ಎಗ್ಗೆ - 4"  
 date: 2016-05-10 21:30:42
 image: '/assets/img/'
 description:
