@@ -31,6 +31,8 @@ compress_html:
 links:
   - title: Home
     url: /
+  - title: Dharmasthana.in
+    url: http://www.dharmasthana.in
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
